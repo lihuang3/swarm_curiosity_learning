@@ -1,3 +1,8 @@
+**This forked version is customized for microrobot swarm delivery, editted by Li Huang, University of Houston**
+To start training, use `python run_maze.py`. You may need to customize your configs in `run_maze.py`
+
+
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 ## Large-Scale Study of Curiosity-Driven Learning ##
